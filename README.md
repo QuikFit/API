@@ -1,2 +1,2 @@
 # API
-The QuikFit API, API Testing Tools for developers, and Documentation
+The Public-facing QuikFit API, API Testing Tools for developers, and Documentation
